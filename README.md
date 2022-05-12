@@ -1,1 +1,1 @@
-# mi-card-App
+# A simple flutter app
